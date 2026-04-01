@@ -1,0 +1,20 @@
+{
+  "name": "md-to-pdf-convertor",
+  "version": "1.0.0",
+  "description": "CLI tool: converts Markdown files listed in location.txt to PDF",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "highlight.js": "^11.11.1",
+    "markdown-it": "^14.1.1",
+    "marked": "^17.0.5",
+    "puppeteer": "^24.40.0"
+  }
+}
