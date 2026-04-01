@@ -1,0 +1,8 @@
+# Add the full path to each .md file you want to convert — one path per line.
+# Lines starting with # are treated as comments and ignored.
+# Example:
+#   C:\Users\you\Documents\notes.md
+#   C:\Projects\readme.md
+
+# Add your paths below:
+A:\md to pdf convertor\pic.md
